@@ -1,0 +1,174 @@
+[17-May-2017 15:12:21 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:12:28 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:12:34 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:13:18 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:13:50 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:14:09 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:17:51 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:18:04 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:21:50 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:22:04 America/New_York] PHP Notice:  Undefined index: uploaded_flag in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 20
+[17-May-2017 15:38:43 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'use_id' in 'where clause'' in /home/area73/public_html/daylogin/user_panel/submit_paper.php:22
+Stack trace:
+#0 /home/area73/public_html/daylogin/user_panel/submit_paper.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 22
+[17-May-2017 15:38:48 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'use_id' in 'where clause'' in /home/area73/public_html/daylogin/user_panel/submit_paper.php:22
+Stack trace:
+#0 /home/area73/public_html/daylogin/user_panel/submit_paper.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 22
+[17-May-2017 15:38:50 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'use_id' in 'where clause'' in /home/area73/public_html/daylogin/user_panel/submit_paper.php:22
+Stack trace:
+#0 /home/area73/public_html/daylogin/user_panel/submit_paper.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 22
+[18-May-2017 06:23:37 America/New_York] PHP Notice:  Undefined property: stdClass::$ui in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:23:37 America/New_York] PHP Notice:  Undefined property: stdClass::$msg in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:23:37 America/New_York] PHP Notice:  Undefined property: stdClass::$ui in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:23:37 America/New_York] PHP Notice:  Undefined property: stdClass::$msg in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:28:39 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:28:42 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:28:45 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:29:08 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:29:15 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:29:27 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:29:43 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/area73/public_html/daylogin/user_panel/blank.php on line 285
+[18-May-2017 06:45:07 America/New_York] PHP Notice:  Undefined property: stdClass::$url in /home/area73/public_html/daylogin/user_panel/blank.php on line 339
+[18-May-2017 06:45:07 America/New_York] PHP Notice:  Undefined property: stdClass::$url in /home/area73/public_html/daylogin/user_panel/blank.php on line 339
+[18-May-2017 06:45:07 America/New_York] PHP Notice:  Undefined property: stdClass::$url in /home/area73/public_html/daylogin/user_panel/blank.php on line 339
+[18-May-2017 06:46:50 America/New_York] PHP Notice:  Undefined property: stdClass::$url in /home/area73/public_html/daylogin/user_panel/blank.php on line 339
+[18-May-2017 06:46:50 America/New_York] PHP Notice:  Undefined property: stdClass::$url in /home/area73/public_html/daylogin/user_panel/blank.php on line 339
+[18-May-2017 06:46:50 America/New_York] PHP Notice:  Undefined property: stdClass::$url in /home/area73/public_html/daylogin/user_panel/blank.php on line 339
+[18-May-2017 08:35:05 America/New_York] PHP Notice:  Undefined variable: row_main in /home/area73/public_html/daylogin/user_panel/submit_paper.php on line 196
+[17-Aug-2017 05:46:03 America/New_York] PHP Notice:  Undefined index: userSession in /home/area73/public_html/daylogin/user_panel/blank.php on line 17
+[17-Aug-2017 05:46:03 America/New_York] PHP Notice:  Undefined index: userSession in /home/area73/public_html/daylogin/user_panel/blank.php on line 38
+[17-Aug-2017 05:46:03 America/New_York] PHP Notice:  Undefined index: userSession in /home/area73/public_html/daylogin/user_panel/blank.php on line 45
+[17-Aug-2017 05:46:03 America/New_York] PHP Notice:  Undefined index: userSession in /home/area73/public_html/daylogin/user_panel/blank.php on line 51
+[21-Aug-2017 10:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 17
+[21-Aug-2017 10:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 38
+[21-Aug-2017 10:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 45
+[21-Aug-2017 10:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 51
+[22-Aug-2017 07:03:24 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 17
+[22-Aug-2017 07:03:24 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 38
+[22-Aug-2017 07:03:24 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 45
+[22-Aug-2017 07:03:24 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/daylogin - etddd/user_panel/blank.php on line 51
+[24-Aug-2017 10:24:58 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[24-Aug-2017 10:24:58 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[24-Aug-2017 10:24:58 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[24-Aug-2017 10:24:58 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[24-Aug-2017 10:25:12 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[24-Aug-2017 10:25:12 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[24-Aug-2017 10:25:12 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[24-Aug-2017 10:25:12 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[24-Aug-2017 10:25:53 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[24-Aug-2017 10:25:53 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[24-Aug-2017 10:25:53 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[24-Aug-2017 10:25:53 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[24-Aug-2017 11:08:54 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[24-Aug-2017 11:08:54 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[24-Aug-2017 11:08:54 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[24-Aug-2017 11:08:54 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[24-Aug-2017 11:09:08 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[24-Aug-2017 11:09:08 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[24-Aug-2017 11:09:08 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[24-Aug-2017 11:09:08 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[24-Aug-2017 11:12:50 Etc/GMT] PHP Notice:  Undefined variable: upload_url in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 36
+[27-Aug-2017 15:55:50 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[27-Aug-2017 15:55:50 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[27-Aug-2017 15:55:50 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[27-Aug-2017 15:55:50 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[27-Aug-2017 15:56:39 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[27-Aug-2017 15:56:39 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[27-Aug-2017 15:56:39 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[27-Aug-2017 15:56:39 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[27-Aug-2017 15:59:46 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[27-Aug-2017 15:59:46 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[27-Aug-2017 15:59:46 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[27-Aug-2017 15:59:46 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[30-Aug-2017 12:24:25 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[30-Aug-2017 12:24:25 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[30-Aug-2017 12:24:25 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 45
+[30-Aug-2017 12:24:26 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 51
+[31-Aug-2017 08:02:14 Etc/GMT] PHP Notice:  Undefined variable: upload_url in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 36
+[06-Sep-2017 17:35:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:25 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:45 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:35:55 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'transactions_payumoney.completed' in 'where clause'' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 17:48:42 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/etdddzs2/public_html/login/user_panel/blank.php on line 46
+[06-Sep-2017 17:59:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN transactions_payumoney ON tbl_users.userID=transactions_payumoney.use' at line 3' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[06-Sep-2017 18:00:21 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN transactions_payumoney ON tbl_users.userID=transactions_payumoney.use' at line 3' in /home/etdddzs2/public_html/login/user_panel/blank.php:47
+Stack trace:
+#0 /home/etdddzs2/public_html/login/user_panel/blank.php(47): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[14-Sep-2017 10:22:53 Etc/GMT] PHP Notice:  Undefined variable: upload_url in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 36
+[15-Sep-2017 02:22:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[15-Sep-2017 02:22:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[15-Sep-2017 02:22:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[15-Sep-2017 02:47:44 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 18
+[15-Sep-2017 02:47:44 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 22
+[15-Sep-2017 02:47:44 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 25
+[20-Sep-2017 17:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[20-Sep-2017 17:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[20-Sep-2017 17:59:29 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[21-Sep-2017 18:34:09 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[21-Sep-2017 18:34:09 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[21-Sep-2017 18:34:09 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[21-Sep-2017 18:34:10 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[21-Sep-2017 18:34:10 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[21-Sep-2017 18:34:10 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[21-Sep-2017 18:34:13 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[21-Sep-2017 18:34:13 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[21-Sep-2017 18:34:13 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[21-Sep-2017 18:34:32 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 17
+[21-Sep-2017 18:34:32 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 38
+[21-Sep-2017 18:34:32 Etc/GMT] PHP Notice:  Undefined index: userSession in /home/etdddzs2/public_html/login/user_panel/blank.php on line 47
+[21-Sep-2017 18:41:02 Etc/GMT] PHP Notice:  Undefined variable: upload_url in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 36
+[22-Sep-2017 17:58:38 Etc/GMT] PHP Notice:  Undefined variable: upload_url in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 36
+[22-Sep-2017 18:26:52 Etc/GMT] PHP Notice:  Undefined variable: upload_url in /home/etdddzs2/public_html/login/user_panel/submit_paper.php on line 36
